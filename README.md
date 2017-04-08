@@ -25,25 +25,35 @@
 
 ## 중요한거부터 
 GPU - 4gb 든 8gb든 튜닝을 어떻게 하느냐에 따라 많은 차이가 나지 않습니다. 4gb를 사용했습니다.
+
 Motherboard - pcie 슬롯이 6개 이상인것을 사야 6개를 돌릴수 있습니다.
+
 PSU - 골드 등급으로 사시는걸 추천합니다. 싼 파워는 전력 공급을 고르지 못하게 하고 장기적으로 부품수명단축과 채굴성능에 영향을 줍니다.
+
 CPU - celeron 1151 정도면 충분합니다. 전 i3를 구매했습니다 6600 (마더보드와 함께 구매시 할인혜택때문에 셀러론이랑 가격이 같았습니다.)
+
 RAM - 4GB 정도면 충분합니다.
+
 SSD - 120기가 정도면 충분합니다.
 
 Riser cable - Pcie슬랏을 연장시켜 그래픽카드설치를 할수 있도록 해주는데 필수라 보면 됩니다.
+
 Power switch - 마더보드에 직접 켤수도 있고 간혹 버튼이 달린 제품도 있습니다. 하지만 하나 있으면 편합니다.
+
 Wifi usb - 선을 선호하시는분은 이더넷 케이블 / 전 10대 미만이라 wifi usb로 해결했습니다.
+
 --------------------------------------------------------
+
 기타
 
 전력 측정기 - 모니터하기 편합니다
+
 펜 - 외부펜한번 돌려주면 5~10도는 금방 내려갑니다.
 
 # 2. 구매하기
 이부분은 나중에 업데이트 하겠습니다
 
-## 2.1 나의 구매 목록
+### 2.1 나의 구매 목록
 
 GPU 		$180 + $20 (2년 보험) - MSI RX Gaming x 4G (x6개)
 		2년이내 고장나면 무상교환
@@ -85,20 +95,23 @@ Wifi 		$10 아무거나쓰셔도 무방합니다. wifi 쓰신이상 이더넷 �
 	https://www.teamviewer.com/en/download/windows/
 	https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en
 	
-## 기타 프로그램
+### 기타 프로그램
 
-GPUZ 그래픽카드 모니터용 https://www.techpowerup.com/gpuz/
+* [GPUZ] - 그래픽카드 모니터용 
 
-MSI 에프터버너 http://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip	
-	- 설명: 펜속도 조절용으로 씁니다. 그외 오버클럭 언더볼트를 할수 있지만 이걸로는 30mhz안나옵니다. 펜용으로만
+* [MSI 에프터버너]	- 설명: 펜속도 조절용으로 씁니다. 그외 오버클럭 언더볼트를 할수 있지만 이걸로는 30mhz안나옵니다. 펜용으로만
 
-ATI Winflash https://www.techpowerup.com/download/ati-winflash/
-	- 설명: GPU bios 플레쉬하는건데 일단은 여기에 두고 아래에 설명하겠습니다.
+* [ATI Winflash] - 설명: GPU bios 플레쉬하는건데 일단은 여기에 두고 아래에 설명하겠습니다.
 
-Polaris Bios Editor https://github.com/caa82437/PolarisBiosEditor/archive/master.zip
+* [Polaris Bios Editor]
 	- 설명: atiWinflah 에서 추출한 바이오스를 수정하는 프로그램입니다.
 	- 경고: 잘못쓰면 벽돌됩니다. 제조사에서 책임안질수도 있습니다. 벽돌이되도 복구하는 방법은 있다고 하지만 전 성공해보질 못했네요. 미국은 무상교환했습니다.
 
-클레이모어 듀얼마이너 https://bitcointalk.org/index.php?topic=1433925.0
+* [클레이모어 듀얼마이너]
 	- 이더리움을 마이닝하면서 그외 다른 코인을 마이닝할수 있습니다. 참고로 사용료가 자신이 채굴한거에 2%라 썻있습니다. 무료채굴프로그램도 있지만 듀얼을 지원하지 않습니다.
 
+[GPUZ]: https://www.techpowerup.com/gpuz/
+[MSI 에프터버너]: http://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip	
+[ATI Winflash]: https://www.techpowerup.com/download/ati-winflash/
+[Polaris Bios Editor]: https://github.com/caa82437/PolarisBiosEditor/archive/master.zip
+[클레이모어 듀얼마이너]: https://bitcointalk.org/index.php?topic=1433925.0
