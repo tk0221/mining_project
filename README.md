@@ -130,7 +130,11 @@ http://atomrigs.blogspot.kr/2016/12/10.html
 	먼저 GPUZ로 매모리 제조사를 확인합니다. 개인적경험으로는 samsung > hynix > elpida 순으로 성능이 잘나오는거 같습니다.
 
 	1. atiwinflash 로 플레쉬할 카드 bios를 추출합니다. 하나로 다씌워도 되는데 전 매번 반복합니다.
+![atibios](https://github.com/tk0221/ethereum_tool/blob/master/img/Screen_Shot_2017-04-08_at_6_28_32_PM-8.png)
+
 	2. polaris editor 로 1번 메모리타이밍을 수정합니다. 
+![polaris editor](https://github.com/tk0221/ethereum_tool/blob/master/img/Screen_Shot_2017-04-08_at_5_51_07_PM-11.png)
+
 	1750 -> 2000 으로 덮어 씌우는데 앞자리는 같지만 뒷자리들이 다르니 저장하기 전에 비교하시길 바랍니다.
 		2.1 램타이밍
 		2.2 매모리 클럭 ( 전 2000으로 수정했습니다.)
