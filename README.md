@@ -141,14 +141,9 @@ http://atomrigs.blogspot.kr/2016/12/10.html
 		2.3 && 2.4 파워는 먼저 1,2를 성공하시면 나중에 수정하는걸 권장드립니다. 하나씩 수정하시길 권장드립니다. 한꺼번에 해서 몇번 벽돌되었습니다.
 
 	3. 다시 atiwinflash 로 Load 한다음 플레쉬를 하는데 하기전 원하는 그래픽 카드가 선택 되었는지 꼭 확인하시길 바랍니다.
-	
-##
-
-
-
-
-
-
+	4. 재부팅을 하시고 한시간정도 돌여보시는걸 추천합니다. 24시간ㅇ르 권장하지만 무슨 문제가 있다면 보통 30분내로 BSOD를 보시게 될겁니다. 
+    	이경우 원래 바이오스로 북구를 하시고 다시 조금씩 수정해나가는걸 추천합니다. 참고로 만약 부팅이 안된다면 아래 링크를 참조하시길...
+* [벽돌복구]
 
 [TeamViewer]: https://www.teamviewer.com/en/download/windows/
 [Google remote descktop]: https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en
@@ -157,3 +152,4 @@ http://atomrigs.blogspot.kr/2016/12/10.html
 [ATI Winflash]: https://www.techpowerup.com/download/ati-winflash/
 [Polaris Bios Editor]: https://github.com/caa82437/PolarisBiosEditor/archive/master.zip
 [클레이모어 듀얼마이너]: https://bitcointalk.org/index.php?topic=1433925.0
+[벽돌복구]: http://www.overclock.net/t/593427/how-to-unbrick-your-bricked-graphics-card-fix-a-failed-bios-flash
