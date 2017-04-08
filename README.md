@@ -121,6 +121,30 @@ http://atomrigs.blogspot.kr/2016/12/10.html
 
 * [클레이모어 듀얼마이너]
 	- 이더리움을 마이닝하면서 그외 다른 코인을 마이닝할수 있습니다. 참고로 사용료가 자신이 채굴한거에 2%라 썻있습니다. 무료채굴프로그램도 있지만 듀얼을 지원하지 않습니다.
+	
+
+# 7. 그래픽카드 튜닝
+	제가 한방식은 다음과 같습니다. 먼저 두개의 그래픽카드를 마더보드에 연결합니다.
+	하나는 일단 HDMI로 모니터에 연결 후 맨 마지막에 튜닝하고 다른 하나는 튜닝할 그래픽 카드입니다.
+
+	먼저 GPUZ로 매모리 제조사를 확인합니다. 개인적경험으로는 samsung > hynix > elpida 순으로 성능이 잘나오는거 같습니다.
+
+	1. atiwinflash 로 플레쉬할 카드 bios를 추출합니다. 하나로 다씌워도 되는데 전 매번 반복합니다.
+	2. polaris editor 로 1번 메모리타이밍을 수정합니다. 
+	1750 -> 2000 으로 덮어 씌우는데 앞자리는 같지만 뒷자리들이 다르니 저장하기 전에 비교하시길 바랍니다.
+		2.1 램타이밍
+		2.2 매모리 클럭 ( 전 2000으로 수정했습니다.)
+		2.3 && 2.4 파워는 먼저 1,2를 성공하시면 나중에 수정하는걸 권장드립니다. 하나씩 수정하시길 권장드립니다. 한꺼번에 해서 몇번 벽돌되었습니다.
+
+	3. 다시 atiwinflash 로 Load 한다음 플레쉬를 하는데 하기전 원하는 그래픽 카드가 선택 되었는지 꼭 확인하시길 바랍니다.
+	
+##
+
+
+
+
+
+
 
 [TeamViewer]: https://www.teamviewer.com/en/download/windows/
 [Google remote descktop]: https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en
