@@ -154,6 +154,8 @@ http://atomrigs.blogspot.kr/2016/12/10.html
     	이경우 원래 바이오스로 북구를 하시고 다시 조금씩 수정해나가는걸 추천합니다. 참고로 만약 부팅이 안된다면 아래 링크를 참조하시길...
 * [벽돌복구]
 
+	5. 다음은 전력소비를 줄이는 작업인데, 먼저 하루정도 돌려보시고 전력소비를 보신뒤 
+	전 보통 2,3을 2 는 1000 3은 950 정도로 잡아주고 전체 볼트를 조금씩 내려서 최적지점(성능은 그대로인데 볼트는 적게 먹는)찾은 뒤 그뒤로 계속 몇시간 더 돌렸습니다.
 ![watttool](https://github.com/tk0221/ethereum_tool/blob/master/img/Screen_Shot_2017-04-08_at_6_59_43_PM-6.png)
 
 [TeamViewer]: https://www.teamviewer.com/en/download/windows/
