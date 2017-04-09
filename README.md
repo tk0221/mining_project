@@ -85,8 +85,8 @@ BTC : 1G55a8fz7WjpzH4oxYTxizKWCCmsousgYF
 	
 	좋은 파워를 썻을때와 저렴한 걸 썼을때 차이입니다. 적어도 골드등급을 사용하시길 추천드립니다. 성능에 영향이 있네요. 해쉬가 일정하지 않아요
 
-[good_psu](https://github.com/tk0221/ethereum_tool/blob/master/img/good.jpeg)
-[bad_psu](https://github.com/tk0221/ethereum_tool/blob/master/img/bad.jpeg)
+![good_psu](https://github.com/tk0221/ethereum_tool/blob/master/img/good.jpeg)
+![bad_psu](https://github.com/tk0221/ethereum_tool/blob/master/img/bad.jpeg)
 
 # 3. 조립
 
