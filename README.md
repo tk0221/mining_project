@@ -154,6 +154,8 @@ http://atomrigs.blogspot.kr/2016/12/10.html
     	이경우 원래 바이오스로 북구를 하시고 다시 조금씩 수정해나가는걸 추천합니다. 참고로 만약 부팅이 안된다면 아래 링크를 참조하시길...
 * [벽돌복구]
 
+![watttool](https://github.com/tk0221/ethereum_tool/blob/master/img/Screen_Shot_2017-04-08_at_6_59_43_PM-6.png)
+
 [TeamViewer]: https://www.teamviewer.com/en/download/windows/
 [Google remote descktop]: https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en
 [GPUZ]: https://www.techpowerup.com/gpuz/
