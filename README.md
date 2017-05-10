@@ -173,7 +173,7 @@ http://atomrigs.blogspot.kr/2016/12/10.html
 [Google remote descktop]: https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en
 [GPUZ]: https://www.techpowerup.com/gpuz/
 [MSI 에프터버너]: http://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip	
-[ATI Winflash]: https://www.techpowerup.com/download/ati-winflash/
+[ATI Winflash]: https://www.techpowerup.com/download/ati-atiflash/
 [Polaris Bios Editor]: https://github.com/caa82437/PolarisBiosEditor/archive/master.zip
 [클레이모어 듀얼마이너]: https://bitcointalk.org/index.php?topic=1433925.0
 [벽돌복구]: http://www.overclock.net/t/593427/how-to-unbrick-your-bricked-graphics-card-fix-a-failed-bios-flash
