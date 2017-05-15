@@ -1,3 +1,6 @@
+https://steemit.com/@tk0221
+여기로 글을 옮겼습니다 짧게 나눠쓰고 있습니다.
+
 # RX 470 4gb 180Mh/s 채굴기만들기 - v1.0
 
 ![result](https://github.com/tk0221/ethereum_tool/blob/master/img/result.png)
