@@ -1,7 +1,7 @@
 # Ethereum Mining Farm
 scripts, bios, modified bios for mining farm.
 
-![result](https://photos.app.goo.gl/FGQc6AZNLxiqhuua6)
+![result](https://github.com/tk0221/mining_project/blob/master/IMG_2773.JPG?raw=true)
 Lakeville, MN
 
 ## Summary
