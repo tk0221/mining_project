@@ -1,3 +1,7 @@
+## Note 2021.2.2 
+
+UPDATE soon
+
 # Ethereum Mining Farm
 scripts, bios, modified bios for mining farm.
 
